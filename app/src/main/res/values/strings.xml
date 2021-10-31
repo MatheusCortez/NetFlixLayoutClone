@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InterfaceNetFlixClone</string>
+    <string name="Menu_mensagem">Mensagem</string>
+    <string name="Menu_volume">Volume</string>
+    <string name="Menu_avaliacoes">Avaliacoes</string>
+    <string name="menu_episodios">Episodios</string>
+</resources>
